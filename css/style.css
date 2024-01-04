@@ -33,14 +33,14 @@ header h1 {
     display: flex;
     margin: auto;
     background-color: var(--temaclaro-fundo);
-    border-radius: 8em;
+    border-radius: 3em;
     padding: 12px;
     justify-content: center;
     align-items: center;
 }
 
 .dev {
-    width: 60%;
+    width: 50%;
 }
 
 .dev .img {
